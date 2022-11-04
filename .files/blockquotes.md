@@ -5,7 +5,7 @@
 
 ### Output:
 
-> text |
+> text
 
 ---
 
