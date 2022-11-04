@@ -1,5 +1,13 @@
 # Headings
 
-| Markdown | Sntax | Output |
-| -------- | ----- | ------ |
-| `#` | `# h1` | # h1 |
+> Markdown:
+
+`#`
+
+> Sntax:
+
+`# h1`
+
+> Output:
+
+# h1
