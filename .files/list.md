@@ -92,9 +92,9 @@
 `- first item`
 
 `- second item`
-   - first item
-   - second item
-   - third item
+   `- first item`
+   `- second item`
+   `- third item`
 
 `- third item`
 
