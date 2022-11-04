@@ -46,4 +46,64 @@
 
 ## Unordered
 
+### Markdown:
+
+`- first item`
+
+`- second item`
+
+`- third item`
+
+### Output:
+
+- first item
+- second item
+- third item
+
+
+### Markdown:
+
+`* first item`
+
+`* second item`
+
+`* third item`
+
+### Output:
+
+* first item
+* second item
+* third item
+
+### Markdown:
+
+`+ first item`
+
+`+ second item`
+
+`+ third item`
+
+### Output:
+
++ first item
++ second item
++ third item
+
+### Markdown:
+
+`- first item`
+
+`- second item`
+
+`- third item`
+
+### Output:
+
+- first item
+- second item
+   - first item
+   - second item
+   - third item
+- third item
+
 [<<< go back <<< ](https://github.com/Pal79/markdown-cheat-sheet)
