@@ -9,8 +9,7 @@
 [Italic](https://github.com/Pal79/markdown-cheat-sheet/blob/main/.files/italic.md) |
 [Bold and Italic](https://github.com/Pal79/markdown-cheat-sheet/blob/main/.files/bold-italic.md) |
 [Blockquote](https://github.com/Pal79/markdown-cheat-sheet/blob/main/.files/blockquotes.md) |
-[Ordered List]() |
-[Unordered List]() |
+[Lists](https://github.com/Pal79/markdown-cheat-sheet/blob/main/.files/list.md) |
 [Code]() |
 [Horizontal rule]() |
 [Link]() |
