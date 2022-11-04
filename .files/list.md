@@ -93,11 +93,11 @@
 
 `- second item`
    
-    `- first item`
+    - first item
    
-    `- second item`
+    - second item
    
-    `- third item`
+    - third item
 
 `- third item`
 
