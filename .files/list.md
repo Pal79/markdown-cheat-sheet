@@ -2,6 +2,10 @@
 
 ---
 
+``Use `code` in your Markdown file.``
+
+---
+
 ## Ordered
 
 ### Markdown:
