@@ -1,12 +1,8 @@
 # Headings
 
-> Markdown:
+> Markdown: `#`
 
-`#`
-
-> Sntax:
-
-`# h1`
+> Sntax: `# h1`
 
 > Output:
 
