@@ -4,7 +4,7 @@
 
 # Basic syntax
 
-[Heading]() |
+[Heading](https://github.com/Pal79/markdown-cheat-sheet/blob/main/.files/heading.md) |
 [Bold]() |
 [Italic]() |
 [Blockquote]() |
