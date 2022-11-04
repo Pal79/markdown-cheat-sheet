@@ -5,7 +5,7 @@
 # Basic syntax
 
 [Heading](https://github.com/Pal79/markdown-cheat-sheet/blob/main/.files/heading.md) |
-[Bold]() |
+[Bold](https://github.com/Pal79/markdown-cheat-sheet/blob/main/.files/bold.md) |
 [Italic]() |
 [Blockquote]() |
 [Ordered List]() |
